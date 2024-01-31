@@ -1,0 +1,17 @@
+{
+    "name": "chongchong-index",
+    "private": true,
+    "type": "module",
+    "scripts": {
+      "build": "nuxt build",
+      "dev": "nuxt dev",
+      "generate": "nuxt generate",
+      "preview": "nuxt preview",
+      "postinstall": "nuxt prepare"
+    },
+    "devDependencies": {
+      "nuxt": "^3.9.3",
+      "@nuxt/content": "^2.10.0"
+    }
+  }
+  
